@@ -1,0 +1,16 @@
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\NumberWords.exe
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\NumberWords.deps.json
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\NumberWords.runtimeconfig.json
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\NumberWords.runtimeconfig.dev.json
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\NumberWords.dll
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\ref\NumberWords.dll
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\bin\Debug\net5.0\NumberWords.pdb
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.csprojAssemblyReference.cache
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.AssemblyInfoInputs.cache
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.AssemblyInfo.cs
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.csproj.CoreCompileInputs.cache
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.dll
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\ref\NumberWords.dll
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.pdb
+C:\Users\james\onedrive\desktop\epicodus\numbers-word\numberwords.solution\NumberWords\obj\Debug\net5.0\NumberWords.genruntimeconfig.cache
